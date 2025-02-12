@@ -3,8 +3,15 @@
 
 ## Table of Content
 - [Project Overview](#project-overview)
-- [Data Source](#Data-Source)
-
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratary Data Analysis](#exploratary-data-analysis)
+- [Result Findings](#result-findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
+  
 
 ### Project Overview 
 
@@ -18,7 +25,7 @@
  - Microsoft Excel - Data cleaning
  - PowerBI - creating visualization report
 
-### Data Cleaning/Preparation
+### Data Cleaning and Preparation
 In the initial data preparation phase, i performed the following task:
 1. Data loading and inspection
 2. Handling missing values
@@ -31,7 +38,7 @@ EDA involved exploring the sales data to answer key questions , such as:
 - Which product are top sellers?
 - What are the peak sales period?
 
- ### Result/Fiding
+ ### Result Findings
 
   The analysis result is summerized as follows:
 - Total Sales: 34M  
@@ -46,7 +53,7 @@ EDA involved exploring the sales data to answer key questions , such as:
 - Sales Fluctuations: Sales peaked in mid-2023 and varied by month  
 - Sales Performance: Dashboard tracks individual performance, sales goals, and profit margins
 
-### Recommendation 
+### Recommendations
 - Investigate Sales Drop: Analyze the 10.8% decline and implement promotional campaigns to counter seasonal or market fluctuations.
 - Optimize Inventory: Improve stock forecasting to avoid stockouts and ensure product availability.
 - Expand in Low-Performing Markets: Focus on regions like India and New Zealand, with localized marketing strategies.
