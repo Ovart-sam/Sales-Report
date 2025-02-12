@@ -17,7 +17,7 @@
 
  The dashboard provides a detailed analysis of monthly fluctuations and individual performance metrics for the sales team, helping monitor progress toward goal. It also tracks sales by country, with *Australia* having the most sales activity. 
 
- ![image alt] (https://github.com/Ovart-sam/Sales-Report/blob/3bf993268fe88a3b93d5841441c52fc26b1e5cfd/zzzzzzz.png)
+ ![image alt](https://github.com/Ovart-sam/Sales-Report/blob/3bf993268fe88a3b93d5841441c52fc26b1e5cfd/zzzzzzz.png)
 
  
 
