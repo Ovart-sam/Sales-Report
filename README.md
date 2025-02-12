@@ -6,6 +6,6 @@
 
  ### Data Source
 
- Sales data: The primary dataset used for this analysis 
+ Sales data: The primary dataset used for this analysis 'ac-sample-data.xlsx' file, containing detailed information about each sales made by the compamy 
 
  ![mage alt](https://github.com/Ovart-sam/Prime-video-analysis/blob/ee55c442a706a0dc3171155a7e54712c186b1bbe/zzzzzzz.png)
