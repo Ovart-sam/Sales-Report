@@ -52,4 +52,10 @@ EDA involved exploring the sales data to answer key questions , such as:
 
 By focusing on these actions, the company can increase revenue and drive long-term growth.
 
+### Limitations
+I had to remove all zero values from the dataset because they would have affected the accuracy of my conclusion from the analysis.
+
+### References
+[https://www.youtube.com/watch?v=ooJO7NW4uJU]
+
  ![mage alt](https://github.com/Ovart-sam/Prime-video-analysis/blob/ee55c442a706a0dc3171155a7e54712c186b1bbe/zzzzzzz.png)
